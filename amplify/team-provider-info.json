@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonhighlightsprod-dev-151828-authRole",
+      "UnauthRoleArn": "arn:aws:iam::801578350879:role/amplify-amazonhighlightsprod-dev-151828-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::801578350879:role/amplify-amazonhighlightsprod-dev-151828-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amazonhighlightsprod-dev-151828-deployment",
+      "UnauthRoleName": "amplify-amazonhighlightsprod-dev-151828-unauthRole",
+      "StackName": "amplify-amazonhighlightsprod-dev-151828",
+      "StackId": "arn:aws:cloudformation:us-east-1:801578350879:stack/amplify-amazonhighlightsprod-dev-151828/16823400-a12f-11ed-9327-0e3d32010dcd",
+      "AmplifyAppId": "dt5km94v0l1q4"
+    },
+    "categories": {
+      "api": {
+        "amazonhighlightsprod": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dt5km94v0l1q4",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
